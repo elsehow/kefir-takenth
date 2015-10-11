@@ -1,0 +1,26 @@
+{
+  "name": "kefir-takenth",
+  "version": "1.0.0",
+  "description": "take every nth element of a kefir stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elsehow/kefir-takenth.git"
+  },
+  "keywords": [
+    "kefir",
+    "frp"
+  ],
+  "author": "elsehow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elsehow/kefir-takenth/issues"
+  },
+  "homepage": "https://github.com/elsehow/kefir-takenth#readme",
+  "dependencies": {
+    "kefir": "^3.1.0"
+  }
+}
